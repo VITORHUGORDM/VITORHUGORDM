@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor Hugo 👋
 
-**Estudante de Sistemas de Informação e desenvolvedor full stack**, de Formosa (GO).
+**Estudante de Sistemas de Informação e desenvolvedor full stack**, de Brasilia (DF).
 Procuro **estágio ou vaga júnior** em desenvolvimento de software.
 
 > 🇺🇸 Information Systems student and full stack developer based in Brazil, looking for an internship or junior role.
