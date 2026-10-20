@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor Hugo 👋
 
-**Estudante de Sistemas de Informação e desenvolvedor full stack**, de Brasilia (DF).
+**Estudante de Sistemas de Informação e desenvolvedor full stack**, de Brasília (DF).
 Procuro **estágio ou vaga júnior** em desenvolvimento de software.
 
 > 🇺🇸 Information Systems student and full stack developer based in Brazil, looking for an internship or junior role.
@@ -44,4 +44,4 @@ Procuro **estágio ou vaga júnior** em desenvolvimento de software.
 
 ## Sobre mim
 
-Apaixonado por tecnologia e cursando Sistemas de Informação. Quero usar o que aprendo para criar soluções úteis e contribuir com o time em que eu estiver.
+Apaixonado por tecnologia e cursando Sistemas de Informação. Sou membro do **LADS (Laboratório de Desenvolvimento de Software) do IESGO**, onde participo de projetos em equipe. Quero usar o que aprendo para criar soluções úteis e contribuir com o time em que eu estiver.
